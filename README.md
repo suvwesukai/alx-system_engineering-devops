@@ -1,4 +1,4 @@
-##alx-system_engineering-devops
+## alx-system_engineering-devops
 
 This repository contains programs written for the system engineering devops track at alxAfrica training. In these projects, I worked and practiced writing Bash scripts. The project list is as follows:
 
