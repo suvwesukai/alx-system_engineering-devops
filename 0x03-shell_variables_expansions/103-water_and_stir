@@ -1,2 +1,2 @@
 #!/bin/bash
-printf
+echo "$((0x${WATER}+0X${STIR}))" | tr -d '\n' | rev
